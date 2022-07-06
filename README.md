@@ -12,7 +12,7 @@
 
 ### 🎮 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-sum&show_icons=true&theme=alogolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-sum&show_icons=true&theme=algolia)
 
 
 
