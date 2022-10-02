@@ -1,8 +1,10 @@
 <p align="center">
-  <samp>💙Welcome everyone💙</samp>
+  <samp>
+      💙Welcome everyone💙<br><br>
+  	<img src="https://i.imgur.com/9tOTe.gif" width="240px" align="center">
+  </samp>
 </p>
 
-<img src="https://i.imgur.com/9tOTe.gif" width="240px" align="center">
 
 
 
