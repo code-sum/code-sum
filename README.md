@@ -1,10 +1,10 @@
 <p align="center">
   <samp>
-      💙Welcome everyone💙<br><br>
-  	<img src="https://i.imgur.com/9tOTe.gif" width="240px" align="center">
+      💙Welcome everyone💙
   </samp>
 </p>
 
+![sushi](README.assets/sushi.gif)
 
 
 
@@ -18,7 +18,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=summer_2)](https://solved.ac/summer_2/)
 
-
+#### 
 
 ### 💻Toolbox
 
