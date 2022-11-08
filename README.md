@@ -4,7 +4,7 @@
   </samp>
 </p>
 
-![sushi](README.assets/sushi.gif)
+<div align=center>![sushi](README.assets/sushi.gif)</div>
 
 
 
