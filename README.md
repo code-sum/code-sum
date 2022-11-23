@@ -3,8 +3,9 @@
       💙Welcome everyone💙<br><br>
   </samp>
   <img src="README.assets/sushi.gif" style="zoom:80%;"/><br><br>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=code-sum&bg_color=020027&color=FDFDFD&line=01CCFF&point=FFFFFF&hide_border=true" align="center"></a>
 </div>
+
+[![Summer's github activity graph](https://activity-graph.herokuapp.com/graph?username=code-sum&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
