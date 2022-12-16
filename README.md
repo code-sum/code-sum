@@ -4,10 +4,6 @@
   </samp>
   <img src="README.assets/sushi.gif" style="zoom:80%;"/><br><br>
 </div>
-![Summer's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=code-sum&theme=react-dark)
-
-
-
 [![Summer's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=code-sum&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
