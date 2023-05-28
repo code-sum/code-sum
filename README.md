@@ -6,7 +6,10 @@
 </div>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=code-sum&show_icons=true&theme=algolia" alt="Anurag's GitHub stats" style="zoom:80%;" />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-sum&layout=compact&theme=algolia)
+### 📊GitHub Stats
+
+  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=code-sum" width="600" /></a>
+  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=code-sum" width="720" /></a>
 
 
 
