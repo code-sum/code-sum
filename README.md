@@ -16,6 +16,6 @@
 
 
 
-### 💻Toolbox
+### 💻Skill Set
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+[![My Skills](https://skillicons.dev/icons?i=python,django,java,js,vue,nodejs,express,jquery,r,postgres,mysql,sqlite,html,css,bootstrap,vscode,eclipse,aws,git,github,figma,stackoverflow,discord)](https://skillicons.dev)
