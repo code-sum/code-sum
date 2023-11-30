@@ -21,4 +21,4 @@
 
 ### 💻Skill Set
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,java,spring,js,vue,nodejs,express,jquery,r,postgres,mysql,sqlite,html,css,bootstrap,vscode,eclipse,docker,postman,fastapi,aws,git,github,maven,powershell,linux,md,figma,stackoverflow,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,java,spring,js,vue,nodejs,express,jquery,r,postgres,mysql,sqlite,html,css,bootstrap,vscode,eclipse,docker,postman,fastapi,aws,githubactions,github,git,maven,powershell,linux,md,figma,stackoverflow,discord)](https://skillicons.dev)
