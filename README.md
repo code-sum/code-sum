@@ -1,9 +1,10 @@
 <div align="center">
   <samp>
-      💙Welcome everyone💙<br><br>
+      💙 Welcome everyone 💙<br><br>
   </samp>
   <img src="README.assets/sushi.gif" style="zoom:80%;"/><br><br>
 </div>
+
 
 
 ### 📊GitHub Stats
@@ -21,4 +22,4 @@
 
 ### 💻Skill Set
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,java,spring,js,vue,nodejs,express,jquery,r,postgres,mysql,sqlite,html,css,bootstrap,vscode,eclipse,docker,postman,fastapi,aws,githubactions,github,git,maven,powershell,linux,md,figma,stackoverflow,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,java,spring,js,vue,npm,nodejs,express,jquery,r,postgres,mysql,sqlite,html,css,bootstrap,vscode,eclipse,docker,postman,fastapi,aws,githubactions,github,git,maven,linux,vim,powershell,md,figma,stackoverflow,discord)](https://skillicons.dev)
