@@ -7,10 +7,9 @@
 
 
 
-### 📊GitHub Stats
+### 💻Skill Set
 
-  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=code-sum" width="600" /></a>
-  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=code-sum" width="720" /></a>
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,js,spring,fastapi,django,vue,npm,nodejs,express,jquery,r,postgres,mysql,sqlite,html,css,bootstrap,vscode,eclipse,docker,postman,aws,githubactions,github,git,maven,linux,vim,powershell,md,figma,stackoverflow,discord)](https://skillicons.dev)
 
 
 
@@ -20,6 +19,8 @@
 
 
 
-### 💻Skill Set
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,js,spring,fastapi,django,vue,npm,nodejs,express,jquery,r,postgres,mysql,sqlite,html,css,bootstrap,vscode,eclipse,docker,postman,aws,githubactions,github,git,maven,linux,vim,powershell,md,figma,stackoverflow,discord)](https://skillicons.dev)
+### 📊GitHub Stats
+
+  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=code-sum" width="600" /></a>
+  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=code-sum" width="720" /></a>
