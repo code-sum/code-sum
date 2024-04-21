@@ -7,7 +7,7 @@
 
 ### 💻Skill Set
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,js,spring,fastapi,django,vue,npm,nodejs,express,jquery,r,postgres,mysql,sqlite,html,css,bootstrap,vscode,idea,eclipse,docker,postman,aws,githubactions,github,git,maven,linux,vim,powershell,md,figma,stackoverflow,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,js,spring,fastapi,django,vue,npm,nodejs,express,nextjs,jquery,r,postgres,mysql,sqlite,html,css,bootstrap,vscode,idea,eclipse,docker,postman,aws,githubactions,github,git,maven,linux,vim,powershell,md,figma,stackoverflow,discord)](https://skillicons.dev)
 
 ### ⚙️Algorithm
 
