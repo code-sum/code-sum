@@ -16,4 +16,3 @@
 ### 📊GitHub Stats
 
 <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=code-sum" width="600" /></a>
-<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=code-sum" width="720" /></a>
