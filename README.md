@@ -21,10 +21,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=summer_2)](https://solved.ac/summer_2/)
 
-### 📊GitHub Stats
-
-<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=code-sum" width="600" /></a>
-
 ### 🎓 Education
 
 - M.S. in Computer Science, Yonsei University (in progress)
